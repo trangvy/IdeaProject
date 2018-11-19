@@ -1,0 +1,20 @@
+{
+  "todos" :
+   [
+    {
+     "name": "Tran Thanh Son",
+     "age": 20,
+     "birthday": "19/11/1991"
+    },
+    {
+     "name": "Hoang Thanh Trung",
+     "age": 20,
+     "birthday": "19/11/1991"
+    },
+    {
+     "name": "Bui Huy Phong",
+     "age": 20,
+     "birthday": "19/11/1991"
+    }
+   ]
+}

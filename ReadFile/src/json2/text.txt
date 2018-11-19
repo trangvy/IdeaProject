@@ -1,0 +1,20 @@
+{
+  "todos" :
+   [
+    {
+     "name": "Nguyen Huu Thanh",
+     "age": 20,
+     "birthday": "19/11/1991"
+    },
+    {
+     "name": "Bui Thanh Nguyen",
+     "age": 20,
+     "birthday": "19/11/1991"
+    },
+    {
+     "name": "Vy Trang",
+     "age": 20,
+     "birthday": "19/11/1991"
+    }
+   ]
+}
