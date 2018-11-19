@@ -1,0 +1,25 @@
+{
+    "students" : [
+                   {
+                     "fullName":"Vy Thi Huyen Trang 1",
+                     "firstName":"Trang",
+                     "lastName":"Vy,",
+                     "age":"20",
+                     "birthday":"19/11/1991"
+                   },
+                   {
+                     "fullName":"Vy Thi Huyen Trang 1",
+                     "firstName":"Trang",
+                     "lastName":"Vy,",
+                     "age":"20",
+                     "birthday":"19/11/1991"
+                   },
+                   {
+                     "fullName":"Vy Thi Huyen Trang 2",
+                     "firstName":"Trang",
+                     "lastName":"Vy,",
+                     "age":"20",
+                     "birthday":"19/11/1991"
+                   }
+                 ]
+}
